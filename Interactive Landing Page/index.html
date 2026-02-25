@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Web Design Mastery | Play</title>
+</head>
+
+<body>
+    <nav>
+        <div class="nav__header">
+            <div class="nav__logo">
+                <a href="#">pl<span><i class="ri-play-fill"></i></span>y</a>
+            </div>
+            <div class="nav__menu__btn" id="menu-btn">
+                <span><i class="ri-menu-line"></i></span>
+            </div>
+        </div>
+        <ul class="nav__links" id="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#trending">Trending</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <div class="nav__btns">
+            <button class="btn">Sign Up</button>
+        </div>
+        <button id="dark-mode-toggle">🌙</button>
+    </nav>
+    <header id="home" class="section__container header__container">
+        <div class="header__image">
+            <img src="images/header.jpg" alt="header" />
+        </div>
+        <div class="header__content">
+            <h2>CREATE PLAYLIST & SHARE IT WITH YOUR FRIENDS</h2>
+            <h1>MUSIC FOR YOUR CURRENT MOOD</h1>
+            <p>
+                Discover the perfect soundtrack for every moment with our 'Music for
+                Your Current Mood' section. Whether you're feeling upbeat, reflective,
+                or somewhere in between, explore curated playlists and tunes tailored
+                to match your mood.
+            </p>
+            <div class="header__btns">
+                <a href="#">
+                    <img src="images/google-play.jpg" alt="google-play" />
+                </a>
+                <a href="#">
+                    <img src="images/app-store.jpg" alt="app-store" />
+                </a>
+            </div>
+        </div>
+    </header>
+    <section id="trending" class="section__container">
+        <h2 style="text-align:center;">Trending Music</h2>
+        <div class="cards">
+            <div class="card">
+                <img src="images/header.jpg" alt="">
+                <div class="overlay">
+                    <i class="ri-play-circle-fill"></i>
+                </div>
+            </div>
+            <div class="card">
+                <img src="images/header.jpg" alt="">
+                <div class="overlay">
+                    <i class="ri-play-circle-fill"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section__container stats">
+        <div class="stat">
+            <h2 class="count" data-target="1000000">0</h2>
+            <p>Active Users</p>
+        </div>
+        <div class="stat">
+            <h2 class="count" data-target="500000">0</h2>
+            <p>Songs Available</p>
+        </div>
+        <div class="stat">
+            <h2 class="count" data-target="120">0</h2>
+            <p>Countries</p>
+        </div>
+    </section>
+    <section class="section__container" style="text-align:center;">
+        <h2>Start Your Free Trial Today</h2>
+        <button class="cta-btn">Start Free Trial</button>
+    </section>
+    <section class="section__container pricing">
+        <h2 style="text-align:center;">Choose Your Plan</h2>
+        <div class="pricing-cards">
+            <div class="price-card">
+                <h3>Free</h3>
+                <h2>$0</h2>
+                <button class="buy-btn">Get Started</button>
+            </div>
+            <div class="price-card">
+                <h3>Pro</h3>
+                <h2>$9</h2>
+                <button class="buy-btn">Buy Now</button>
+            </div>
+        </div>
+    </section>
+    <section id="contact" class="section__container">
+        <h2 style="text-align:center;">Contact Us</h2>
+        <form id="contact-form" class="contact-form">
+            <input type="text" id="name" placeholder="Your Name">
+            <input type="email" id="email" placeholder="Your Email">
+            <button type="submit">Submit</button>
+        </form>
+        <p id="form-message"></p>
+    </section>
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <span id="close-modal">&times;</span>
+            <h2>Start Free Trial</h2>
+            <p>Enter your email to continue</p>
+            <input type="email" id="modal-email" placeholder="Enter your email">
+            <button id="modal-submit">Start Trial</button>
+            <p id="modal-message"></p>
+        </div>
+    </div>
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="script.js"></script>
+</body>
+
+
+</html>
