@@ -91,7 +91,15 @@ This project demonstrates:
 
 ## 📸 Screenshots
 
-(Add screenshots here if required)
+![project screenshots]
+(screenshots/Screenshot(77).png)
+(screenshots/Screenshot(78).png)
+(screenshots/Screenshot(79).png)
+(screenshots/Screenshot(80).png)
+(screenshots/Screenshot(81).png)
+(screenshots/Screenshot(82).png)
+(screenshots/Screenshot(83).png)
+(screenshots/Screenshot(84).png)
 
 ---
 
@@ -110,7 +118,7 @@ This project demonstrates:
 **Sujal Piprikar**
 
 - GitHub: (https://github.com/sujalpiprikar01)
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn: (www.linkedin.com/in/sujal-piprikar-693548260)
 
 ---
 
