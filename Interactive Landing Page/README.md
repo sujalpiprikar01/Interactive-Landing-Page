@@ -5,12 +5,6 @@ This project demonstrates the use of animations, transitions, and JavaScript int
 
 ---
 
-## 🚀 Live Demo
-
-👉 (Add your GitHub Pages / Netlify link here)
-
----
-
 ## 📌 Project Overview
 
 This landing page is designed to simulate a real-world music streaming platform.  
@@ -91,15 +85,6 @@ This project demonstrates:
 
 ## 📸 Screenshots
 
-![project screenshots]
-(screenshots/Screenshot(77).png)
-(screenshots/Screenshot(78).png)
-(screenshots/Screenshot(79).png)
-(screenshots/Screenshot(80).png)
-(screenshots/Screenshot(81).png)
-(screenshots/Screenshot(82).png)
-(screenshots/Screenshot(83).png)
-(screenshots/Screenshot(84).png)
 
 ---
 
@@ -124,4 +109,4 @@ This project demonstrates:
 
 ## 📄 License
 
-This project is created for educational and portfolio purposes.
+This project is created for internship purpose.
