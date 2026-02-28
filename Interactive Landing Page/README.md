@@ -85,6 +85,19 @@ This project demonstrates:
 
 ## 📸 Screenshots
 
+### 🏠 Landing Page Home
+![Home](screenshots/Screenshot1.png)
+
+### ✨ Features Section
+![Features](screenshots/Screenshot2.png)
+![Features](screenshots/Screenshot3.png)
+![Features](screenshots/Screenshot4.png)
+
+### 🎬 Dark Mode
+![Dark Mode](screenshots/Screenshot6.png)
+
+### 📱 Responsive View
+![Responsive](screenshots/Screenshot7.png)
 
 ---
 
