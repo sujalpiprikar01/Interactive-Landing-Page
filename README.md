@@ -111,6 +111,12 @@ This project demonstrates:
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to view the live website](https://sujalpiprikar01.github.io/Interactive-Landing-Page/)
+
+---
+
 ## 👨‍💻 Author
 
 **Sujal Piprikar**
